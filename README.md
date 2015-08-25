@@ -1,4 +1,4 @@
-# grunt-init-gruntfile
+# grunt-init-mkdir
 
 > Create a basic Gruntfile with [grunt-init][].
 
